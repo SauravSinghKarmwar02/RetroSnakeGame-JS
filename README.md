@@ -12,5 +12,5 @@ This repository contains a simple retro-style Snake game implemented in JavaScri
 
 ## Demo
 
-You can play the game online [PLAY_GAME]([https://your-deployed-site-url](https://retro-snake-game-by-saurav.netlify.app/)).
+You can play the game online [PLAY_GAME](https://retro-snake-game-by-saurav.netlify.app/).
 
