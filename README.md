@@ -1,6 +1,6 @@
 # Retro Snake Game
 
-![Preview](preview.png)
+![Preview](assets/preview.png)
 
 This repository contains a simple retro-style Snake game implemented in JavaScript.
 
@@ -9,4 +9,8 @@ This repository contains a simple retro-style Snake game implemented in JavaScri
 - Classic retro-style Snake gameplay.
 - Simple controls using arrow keys.
 - Score tracking.
+
+## Demo
+
+You can play the game online [here](https://your-deployed-site-url).
 
